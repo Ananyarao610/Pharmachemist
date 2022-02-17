@@ -2,7 +2,7 @@
 
 ## Introduction
 
-The Phaarmachemist shopping website is a web based application designed using HTML, CSS and JS. MongoDB has been used as the database. 
+The Pharmachemist shopping website is a web based application designed using HTML, CSS and JS. MongoDB has been used as the database. 
 It mimics a medicine shopping site where the users can register, login and buy medicine and skincare products.
 
 
